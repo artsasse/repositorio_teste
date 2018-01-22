@@ -1,1 +1,6 @@
-Esse eh o quarto txt, baseado no primeiro tbm
+(Esse eh o quarto txt, baseado no primeiro tbm)
+
+(Esse eh o terceiro txt, uma modificação do primeiro)
+
+Esquece tudo isso, na vdd esse eh o quinto txt
+
